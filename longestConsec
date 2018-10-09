@@ -1,3 +1,4 @@
+#swift
 func longestConsec(_ strarr: [String], _ k: Int) -> String {
     var longest: String = ""
     let n = strarr.count
